@@ -3,9 +3,9 @@
 ## Completado desafio rocketseat, desenvolvendo uma pagina com listas, e positon no css.
 <br>
 <br>
-<p align ="center">
-   <img height= "500" width="400" align="center" href="/Social-Tree/gif/Animação.gif">
-<p/>
+
+![Animação](https://user-images.githubusercontent.com/85465530/159410764-6deb6d19-5506-4d95-8926-0028c3a73f68.gif)
+
 
 <br> 
 <br>
