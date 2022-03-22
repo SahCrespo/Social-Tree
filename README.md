@@ -19,4 +19,4 @@
 -CSS  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40" align="center"  />
 
 ### Figma
-https://www.figma.com/file/APDWxva2BfQ9PT69OIZsWm/DD-%2F-Social-links-(Copy)?node-id=0%3A1
+<a href = "https://www.figma.com/file/APDWxva2BfQ9PT69OIZsWm/DD-%2F-Social-links-(Copy)?node-id=0%3A1" target="_blank" >https://www.figma.com/file/APDWxva2BfQ9PT69OIZsWm/DD-%2F-Social-links-(Copy)?node-id=0%3A1</a>
